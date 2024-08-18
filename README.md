@@ -2,7 +2,7 @@
 
 ### - 🌱 I’m currently learning AWS, Docker, Flask, MongoDB, Streamlit, and so many Machine Learning Stuff
 
-### - 💬 Ask me about : My GITHUB PAGE : **https://riddlerjoke.github.io/react-github-page/homepage**
+### - 💬 Ask me about : My Portfolio : **https://riddlerjoke.github.io/react-github-page/homepage**
 
 <!--
 **Riddlerjoke/Riddlerjoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
